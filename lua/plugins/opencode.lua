@@ -5,7 +5,7 @@ return {
   },
   keys = {
     {
-      "<leader>aa",
+      "<leader>az",
       function()
         require("opencode").toggle()
       end,
